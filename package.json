@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "jsd": "1.1.2",
-    "jsd-plugins-bem": "1.6.0"
+    "jsd-plugins-bem": "bem/jsd-plugins-bem"
   },
   "devDependencies": {
     "mocha": "1.13.0",
